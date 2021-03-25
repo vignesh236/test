@@ -88,5 +88,11 @@
   },
   "rulesDirectory": [
     "codelyzer"
+  ],
+   "rulesDirectory": [
+    "codelyzer"
+  ]
+   "rulesDirectory": [
+    "codelyzer"
   ]
 }
