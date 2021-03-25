@@ -18,6 +18,8 @@
     "component-selector": [
       true,
       "element",
+	  "element",
+	  "element",
       "app",
       "kebab-case"
     ],
